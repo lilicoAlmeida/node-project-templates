@@ -52,33 +52,9 @@ node src/app.js
 
 ## Directory Structure
 
-plaintext
 
-/nodejs-structures/
-├── Basic_Web/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── models/
-│   │   └── routes/
-│   ├── config/
-│   ├── test/
-│   └── package.json
-├── Microservice/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── models/
-│   │   └── routes/
-│   ├── config/
-│   ├── test/
-│   └── package.json
-└── API/
-    ├── src/
-    │   ├── controllers/
-    │   ├── models/
-    │   └── routes/
-    ├── config/
-    ├── test/
-    └── package.json
+![image](https://github.com/user-attachments/assets/c4cfbde5-5ed5-4e28-a0f7-5ffb61c89af9)
+
 
 ## Contribution
 
